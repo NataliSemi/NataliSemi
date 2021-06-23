@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Nataliia  (you can call me Nata, Natali, Natasha)
 #### Python | Backend Developer | Django
-![Python | Backend Developer | Django](https://media-exp3.licdn.com/dms/image/C4D16AQE7R9V4r4Kxsw/profile-displaybackgroundimage-shrink_350_1400/0/1624383497395?e=1629936000&v=beta&t=_eEVLM92O4p4b-MEqCtg2GMM7pj7BzsUtrmD5hk-UxE)
-
-
+![Python | Backend Developer | Django](https://raw.githubusercontent.com/NataliSemi/NataliSemi/main/Simple%20Technology%20LinkedIn%20Banner.png)
 I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I realy enjoy learning framework's like Django, Flask, React. I'm also interseting in Penetration Testing and how can I use programming in this field.
 
 Skills: Python /Django/Flask/ REACT / JS / HTML / CSS
