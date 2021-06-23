@@ -6,7 +6,12 @@
 I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I realy enjoy learning framework's like Django, Flask, React. I'm also interseting in Penetration Testing and how can I use programming in this field.
 
 Skills: Python /Django/Flask/ REACT / JS / HTML / CSS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliSemi)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
+- 🌱 I’m currently learning Dajngo, React, Vue 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nataliia-sorokina-87418b1b4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NataliiaISorokina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NataliSemi)  
 
 
 
