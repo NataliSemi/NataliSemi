@@ -3,6 +3,12 @@
 ![Python | Backend Developer | Django](https://raw.githubusercontent.com/NataliSemi/NataliSemi/main/Simple%20Technology%20LinkedIn%20Banner.png)
 I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I realy enjoy learning framework's like Django, Flask, React. I'm also interseting in Penetration Testing and how can I use programming in this field.
 
+# Skills and Experience
+
+
+*  :atom_symbol: React
+
+
 Skills: Python /Django/Flask/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
