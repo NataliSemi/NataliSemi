@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I realy enjoy learning framework's like Django, Flask, React.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliSemi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **NataliSemi/NataliSemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
