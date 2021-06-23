@@ -14,7 +14,11 @@ I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I rea
 * :computer:  HTML, CSS 
 
 
-Skills: Python /Django/Flask/ REACT / JS / HTML / CSS
+# Example of work
+* https://vast-badlands-50781.herokuapp.com/en/
+* https://job---board.herokuapp.com/
+* https://sheltered-thicket-02792.herokuapp.com/
+* https://mysterious-forest-62489.herokuapp.com/
 
 - 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
 - 🌱 I’m currently learning Dajngo, React, Vue 
