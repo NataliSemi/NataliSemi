@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nataliia
+### Hi there 👋, my name is Nataliia(you can call me Nata, Natali, Natasha)
 #### Python | Backend Developer | Django
 ![Python | Backend Developer | Django](https://media-exp3.licdn.com/dms/image/C4D16AQE7R9V4r4Kxsw/profile-displaybackgroundimage-shrink_350_1400/0/1624383497395?e=1629936000&v=beta&t=_eEVLM92O4p4b-MEqCtg2GMM7pj7BzsUtrmD5hk-UxE)
 
