@@ -10,7 +10,8 @@ I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I rea
 * :compass: Flask
 * :snake: Python
 * :scroll: JavaScript
-*  :atom_symbol: React
+* :atom_symbol: React
+* :computer:  HTML, CSS 
 
 
 Skills: Python /Django/Flask/ REACT / JS / HTML / CSS
