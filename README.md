@@ -21,7 +21,7 @@ I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I rea
 * https://mysterious-forest-62489.herokuapp.com/
 
 - 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
-- 🌱 I’m currently learning Dajngo, React, Vue 
+- 🌱 My favorite framework are:  Django, React, Vue 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nataliia-sorokina-87418b1b4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NataliiaISorokina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NataliSemi)  
