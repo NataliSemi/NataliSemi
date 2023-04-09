@@ -15,9 +15,8 @@ I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I rea
 
 
 # Example of work
-* https://vast-badlands-50781.herokuapp.com/en/
+* http://netechwithjazzgirl.herokuapp.com/portfolio/
 * https://job---board.herokuapp.com/
-* https://sheltered-thicket-02792.herokuapp.com/
 * https://mysterious-forest-62489.herokuapp.com/
 
 - 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
