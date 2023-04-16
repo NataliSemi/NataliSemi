@@ -19,7 +19,7 @@ I'm Nataliia from Ukraine, and I like to program in Python and JavaScript. I rea
 * https://job---board.herokuapp.com/
 * https://mysterious-forest-62489.herokuapp.com/
 
-- 🔭 I’m currently working on http://www.techjazzgirl.xyz/ 
+- 🔭 I’m currently working on https://periodix.net/
 - 🌱 My favorite frameworks are:  Django, React, Vue 
 
 
